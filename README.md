@@ -1,4 +1,4 @@
-I am a biologist and data scientist using computational tools to parse the data of the cell and discover new approaches in healthcare and bioengineering.
+I am a biologist and data scientist using computational tools to parse the data of the cell and develop new approaches in healthcare and bioengineering.
 
 ## 🧬 Bioinformatics Interests
 Some of the topics within bioinfomatics and computational biology that I have worked on:
