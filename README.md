@@ -9,7 +9,7 @@ Some of the topics within bioinfomatics and computational biology that I have wo
 * Metagenomics
 * Synthetic biology
 
-## 🗠 Data Science Interests
+## 📈 Data Science Interests
 Some of the topics within general data science that I have worked on:
 * Web scraping
 * Process automation
